@@ -22,7 +22,7 @@ Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwis
 - `-2^31 <= x <= 2^31 - 1`
 
 ---
-## Solution
+## MY Solution
 **Runtime:** 0 ms | **Beats:** 100%
 **Time Complexity:** O(Logn)
 **Memory:** 8.19 MB | **Beats:** 47.65%
