@@ -41,8 +41,8 @@ x = 2.00000, n = -2
 - `x` is a floating-point number.
 - Results should be within `10^-4` of the expected answer.
 
-## MY Solution
+## My Solution
 **Runtime:** 0 ms | **Beats:** 100%
-**Time Complexity:** O(Logn)
+**Time Complexity:** O(Log N)
 **Memory:** 8.61 MB | **Beats:** 44.84%
 **Space Complexity:** O(1)

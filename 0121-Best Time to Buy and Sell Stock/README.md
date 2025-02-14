@@ -35,7 +35,7 @@ In this case, no transactions can be made since prices are always decreasing.
 - `1 <= prices.length <= 10^5`
 - `0 <= prices[i] <= 10^4`
 
-## MY Solution
+## My Solution
 **Runtime:** 0 ms | **Beats:** 100%
 **Time Complexity:** O(N)
 **Memory:** 15.45 MB | **Beats:** 18.78%
