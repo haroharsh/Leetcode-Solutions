@@ -1,13 +1,27 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        for (int i = 0; i < nums.size() - 1; i++) {
-            for (int j = i + 1; j <= nums.size() -1; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return {i,j};
-                }
+        vector<pair<int, int>> originalIndex;
+        for(int i = 0; i < nums.size(); i++){
+            originalIndex.push_back({nums[i], i});
+        }
+
+        sort(originalIndex.begin(), originalIndex.end());
+        int left =0;
+        int right =originalIndex.size() - 1;
+
+        while(left < right){
+            int sum = originalIndex[left].first + originalIndex[right].first;
+            if(sum == target){
+                return {originalIndex[left].second, originalIndex[right].second};
+            } 
+            else if(sum < target){
+                left++;
+            }
+            else{
+                right--;
             }
         }
-    return {0,0};
+        return {0,0};
     }
 };
