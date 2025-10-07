@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0119-pascals-triangle-ii](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
