@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1894-merge-strings-alternately](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
