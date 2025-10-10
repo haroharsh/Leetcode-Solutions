@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0119-pascals-triangle-ii](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
