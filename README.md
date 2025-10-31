@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
 | ------- |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
