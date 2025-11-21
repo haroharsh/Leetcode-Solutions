@@ -1,7 +1,7 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int min= 0;
+        int min= -1;
         int tot = 0;
         for(int i=0; i < weights.size();i++){
             min = max(min, weights[i]);
