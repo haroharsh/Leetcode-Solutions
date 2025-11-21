@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+## Binary Search
+|  |
+| ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
