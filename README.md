@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2571-find-the-pivot-integer](https://github.com/haroharsh/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [2571-find-the-pivot-integer](https://github.com/haroharsh/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 ## Database
 |  |
 | ------- |
