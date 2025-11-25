@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2571-find-the-pivot-integer](https://github.com/haroharsh/Leetcode-Solutions/tree/master/2571-find-the-pivot-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/haroharsh/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/haroharsh/Leetcode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/haroharsh/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
